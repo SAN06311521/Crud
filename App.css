@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin: auto;
+  width: 30%;
+}
+
+.myForm{
+  width: 100%;
+  background-color: rgb(146, 235, 198);
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.formField{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.myButton{
+  width: 30%;
+  background-color: rgb(8, 26, 58);
+  color: rgb(227, 245, 241);
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.myList{
+  list-style: none;
+}
+
+.myListButtonRemove{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 4px;
+  border: 1px solid #65eec0;
+  background-color: #e60505;
+  color: #ccc;
+  padding: 10px;
+  margin: 3px 5px;
+  
+}
+
+.myListButtonUpdate{
+  display: inline-block;
+  height: auto;
+  width: auto;
+  border-radius: 4px;
+  border: 1px solid #65eec0;
+  background-color: #087917;
+  color: #edf5f2;
+  padding: 10px;
+  margin: 3px 5px;
+}
